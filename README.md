@@ -37,7 +37,7 @@ To use Multi Renamer, you need to have Python installed on your system along wit
 You can install these dependencies using `pip`:
 
 ```bash
-pip install PySide2 qdarktheme
+pip install PySide2 pyqtdarktheme
 ```
 Clone the repository and navigate to the project directory:
 
